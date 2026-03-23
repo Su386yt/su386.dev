@@ -1,0 +1,18 @@
+# Projects
+Here is some information about a few projects I have worked on:
+
+GitHub: [@Su386yt](https://github.com/Su386yt)
+
+### Partly Sane Skies
+Link: [https://github.com/PartlySaneStudios/partly-sane-skies/](https://github.com/PartlySaneStudios/partly-sane-skies/)
+
+### SySi
+Link: [https://github.com/Su386yt/sysi](https://github.com/Su386yt/sysi)
+
+SySi is a static site generator, compiles ``.syl``, ``.md``, ``.html``, and regular ``.txt`` files to ``.html`` and inserts them into a designated template. It supports macros, called "fragments" and multiple different templates. 
+
+Currently ``.syl`` files are the most limited and currently do not support references (hyperlinks), images, and ordered lists. I also plan to support photo galleries, GitHub sync (automatically taking projects from the user's GitHub profile, and displaying it on their website), and runnable scripts. 
+
+For more information visit the [project page](https://github.com/Su386yt/sysi) or the ["how to" page](https://github.com/Su386yt/sysi/blob/main/docs/how%20to.md). 
+
+To see this website's source code, visit the site's [GitHub Repo](https://github.com/Su386yt/su386.dev).
