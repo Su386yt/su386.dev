@@ -1,0 +1,13 @@
+{
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 2,
+  "todohighlight.keywords": [
+    {
+      "text": "NOTE:",
+      "color": "#ffffff",
+      "backgroundColor": "#006569",
+      "overviewRulerColor": "#006569"
+    },
+  ]
+}
